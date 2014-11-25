@@ -1,8 +1,9 @@
 Alex Chin
 =========
+[www.alexchin.co.uk]
 
 I'm a full stack web developer from Shoreditch, London.
-I love learning and enjoy making things with new technologies. 
+I love learning and enjoy making things with new technologies. I use Ruby, Javascript, HTML & SCSS amongst other things. 
 Read my code on [GitHub].
 
 Code examples
@@ -135,6 +136,7 @@ I'm `alexpchin` on [GitHub] and [LinkedIn].
 
   [Fontdownloader]: https://github.com/alexpchin/fontdownloader
   [One Million]: https://github.com/alexpchin/one-million
+  [www.alexchin.co.uk]: http://www.alexchin.co.uk
   [Alex Chin]: https://github.com/alexpchin/alexpchin.github.io
   [General Assembly]: https://generalassemb.ly/london 
   [alex@alexchin.co.uk]: mailto:alex@alexchin.co.uk
