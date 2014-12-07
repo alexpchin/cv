@@ -9,9 +9,9 @@ Read my code on [GitHub].
 Code examples
 -------------
 
-| [Alex Chin] | [One Million] | [Fontdownloader] |
+| [Alex Chin] | [Exercism.io] | [Fontdownloader] |
 |:--------------- |:-------- |:--------- |
-| My personal blog built with Jekyll, Slim, Zurb and a few other bits...| A Ruby script that outputs every number from 1 (one) to 1,000,000 (one million) but in words. | Font Downloader allows you to input any url and download the fonts that are embedded in that website's stylesheet.|
+| My personal blog built with Jekyll, Slim, Zurb and a few other bits...| My progress through the exercism.io code tests. | Font Downloader allows you to input any url and download the fonts that are embedded in that website's stylesheet.|
 
 
 Web development
@@ -60,7 +60,7 @@ Experience
   - I founded Womapp™, the word of mouth application, a social shopping platform. Operating as peer-to-peer affiliate platform it launched with 3,500,000 products from retailers like Urban Outfitters, Topshop, French Connection and many more.
 
 ### Microwave
-**Founder: December 2009&mdash;December 2011**
+**Co-founder: December 2009&mdash;December 2011**
 
   - A boutique web-design and development agency setup by Andrew Wills, Fernando Amschlinger & I. We worked on some really great projects including making the first website for Beatrix Ong, helped Jade Jagger with Facebook, built websites for University of the Arts London & The Hepatitis C Trust.
 
@@ -135,7 +135,7 @@ I'm `alexpchin` on [GitHub] and [LinkedIn].
 07824 332502, [alex@alexchin.co.uk]
 
   [Fontdownloader]: https://github.com/alexpchin/fontdownloader
-  [One Million]: https://github.com/alexpchin/one-million
+  [Exercism.io]: https://github.com/alexpchin/exercism
   [www.alexchin.co.uk]: http://www.alexchin.co.uk
   [Alex Chin]: https://github.com/alexpchin/alexpchin.github.io
   [General Assembly]: https://generalassemb.ly/london 
