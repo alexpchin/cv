@@ -46,13 +46,16 @@ I grasp new ideas quickly and I passionately believe that good code has the powe
   - WebSockets
   - User authentication and authorisation with bcrypt and Devise
   - Integration of APIs including Twilio, Stripe and Paperclip
-  - Mailgun API with RestClient
+  - Mailchimp & Mandrill API's
   - GitHub Flavoured Markdown
   - Deployment to Heroku
 
 
 Experience
 ----------
+
+### General Assembly
+**Teaching Assistant: July 2014&mdash;Present**
 
 ### Womapp
 **CEO: September 2008&mdash;Present**
