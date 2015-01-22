@@ -9,9 +9,13 @@ Read my code on [GitHub].
 Code examples
 -------------
 
-| [Alex Chin] | [Exercism.io] | [Fontdownloader] |
-|:--------------- |:-------- |:--------- |
-| My personal blog built with Jekyll, Slim, Zurb and a few other bits...| My progress through the exercism.io code tests. | Font Downloader allows you to input any url and download the fonts that are embedded in that website's stylesheet.|
+| [Alex Chin] | [Exercism.io] |
+|:----------- |:------------- |
+| My personal blog built with Jekyll, Slim, Zurb and a few other bits...| My progress through the exercism.io code tests (primarily in Ruby).  |
+
+| [Fontdownloader] | [Moodswings]
+|:---------------- |:---------- |
+| Font Downloader allows you to input any url and download the fonts that are embedded in that website's stylesheet.| I re-developed the front-end for a tool to measure student satisfaction for General Assembly. |
 
 
 Web development
@@ -36,19 +40,18 @@ I grasp new ideas quickly and I passionately believe that good code has the powe
   - PostgreSQL
   - Sinatra
   - Unit testing with RSpec and Jasmine
-  - Integration testing with Capybara
-  - Behaviour driven development with Cucumber
   - FactoryGirl fixtures and Shoulda matchers
   - Version control with git and GitHub
   - JavaScript, jQuery and CoffeeScript
-  - HTML5, ERB and Haml
-  - CSS3, Sass and Twitter Bootstrap 3
-  - WebSockets
+  - HTML5, Erb, Slim and Haml
+  - CSS3, Sass, Foundation and Twitter Bootstrap 3
+  - WebSockets and Pusher
   - User authentication and authorisation with bcrypt and Devise
-  - Integration of APIs including Twilio, Stripe and Paperclip
+  - Integration of a number of APIs
   - Mailchimp & Mandrill API's
   - GitHub Flavoured Markdown
   - Deployment to Heroku
+  - UX & Wireframing
 
 
 Experience
@@ -56,6 +59,8 @@ Experience
 
 ### General Assembly
 **Teaching Assistant: July 2014&mdash;Present**
+
+- At General Assembly, I teach coding lessons to a class of approximately 20 students. I contribute to the syllabus and write notes for the students. I mark homework, pair-programme with the students and help with other aspects of their learning.
 
 ### Womapp
 **CEO: September 2008&mdash;Present**
@@ -119,17 +124,14 @@ Education
 Interests
 ---------
 
-Lean startups
-
-Typography
-
-Code readability
-
-Software craftmanship
-
-Usability
-
-Data driven design
+- Ideas & Startups
+- [Exercism.io]
+- [Codewars]
+- Typography
+- Code readability
+- Software craftmanship
+- Usability
+- Data driven design
 
 Meet me
 -------
@@ -146,3 +148,5 @@ I'm `alexpchin` on [GitHub] and [LinkedIn].
   [GitHub]: https://github.com/alexpchin
   [LinkedIn]: http://linkedin.com/in/alexpchin
   [Twitter]: http://twitter.com/jamesjoshuahill
+  [Moodswings]: http://ga-moodswings.herokuapp.com
+  [Codewars]: http://www.codewars.com/
