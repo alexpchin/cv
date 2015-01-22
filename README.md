@@ -1,5 +1,5 @@
-Alex Chin
-=========
+CV - Alex Chin
+=============
 [www.alexchin.co.uk]
 
 I'm a full stack web developer from Shoreditch, London.
@@ -9,13 +9,21 @@ Read my code on [GitHub].
 Code examples
 -------------
 
-| [Alex Chin] | [Exercism.io] |
-|:----------- |:------------- |
-| My personal blog built with Jekyll, Slim, Zurb and a few other bits...| My progress through the exercism.io code tests (primarily in Ruby).  |
+| [Alex Chin] |
+|:------------- |
+| My personal blog built with Jekyll, Slim, Zurb and a few other bits. It uses Lunr.js to search throughout the site and it has custom asset management. | 
 
-| [Fontdownloader] | [Moodswings]
-|:---------------- |:---------- |
-| Font Downloader allows you to input any url and download the fonts that are embedded in that website's stylesheet.| I re-developed the front-end for a tool to measure student satisfaction for General Assembly. |
+| [Exercism.io] |
+|:------------- |
+| My progress through the exercism.io code tests, primarily in Ruby. I really enjoy working on these types of problems and seeing how other people solve them. |
+
+|[Moodswings] |
+|:---------- |
+| I re-developed the front-end for a tool used to measure student satisfaction for General Assembly. The platform is now being used at the London campus. |
+
+| [Fontdownloader] | 
+|:---------------- |
+| Font Downloader is a little hack that allows you to input any url and download the fonts that are embedded in that website's stylesheet.|
 
 
 Web development
